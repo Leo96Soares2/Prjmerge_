@@ -1,1 +1,1 @@
-select *from dual;
+select vsdate from dual;
